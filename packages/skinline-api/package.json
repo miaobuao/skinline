@@ -1,0 +1,7 @@
+{
+  "name": "@skinline/api",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node ./src/generate.js"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "@skinline/api",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/skinline-api/src",
+  "projectType": "library",
+  "targets": {},
+  "tags": []
+}
